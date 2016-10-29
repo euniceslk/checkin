@@ -299,6 +299,7 @@
 				FC6C36441D9CED2B00B1E828 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
